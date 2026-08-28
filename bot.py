@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime
 
 # ================= НАСТРОЙКИ =================
-TOKEN = "8830470755:AAGSb6yPM7DSJc2KX5kNcmVo2W_OWDdpNYM"
+TOKEN = "8614023390:AAGQ4xtyhUH3aPmNWaXdDQeh4bbHOdsFbmQ"
 ADMIN_ID = 1610696013
 PAYMENT_DETAILS = "Сбербанк: 2204 3204 7177 0653 (Твое Имя)" 
 bot = telebot.TeleBot(TOKEN)
