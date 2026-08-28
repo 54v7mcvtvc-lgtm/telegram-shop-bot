@@ -1,7 +1,6 @@
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 import sqlite3
-from
 
 # ================= НАСТРОЙКИ =================
 TOKEN = "8830470755:AAGSb6yPM7DSJc2KX5kNcmVo2W_OWDdpNYM" # ВСТАВЬ СВОЙ ТОКЕН!
