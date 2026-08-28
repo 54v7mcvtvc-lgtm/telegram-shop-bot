@@ -2,7 +2,7 @@ import sqlite3
 import telebot
 from telebot import types
 
-TOKEN = "ТВОЙ_ТОКЕН_БОТА"  # Твой актуальный токен
+TOKEN = "8614023390:AAGQ4xtyhUH3aPmNWaXdDQeh4bbHOdsFbmQ"  # Твой актуальный токен
 ADMIN_ID = 1610696013  # Твой Telegram ID
 
 bot = telebot.TeleBot(TOKEN)
