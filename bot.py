@@ -6,7 +6,7 @@ from datetime import datetime
 # ================= НАСТРОЙКИ =================
 TOKEN = "8614023390:AAGQ4xtyhUH3aPmNWaXdDQeh4bbHOdsFbmQ"
 ADMIN_ID = 1610696013
-PAYMENT_DETAILS = "Сбербанк: 2204 3204 7177 0653 (Твое Имя)" 
+PAYMENT_DETAILS = "2204 3204 7177 0653" 
 bot = telebot.TeleBot(TOKEN)
 
 APPLE_DENOMINATIONS = {
